@@ -12,6 +12,9 @@
 // npm init (step by step, press enter to skip)
 // npm init -y (everything default)
 
+// download packages in Dev dependencies
+// npm i <packageName> -D or --save-dev
+
 const _ = require('lodash');
 
 const items = [1, [2,3,[3,[4]]]]
